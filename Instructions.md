@@ -31,10 +31,9 @@ The ESIP Portal is based off of BioPortal and the BioPortal API documentation ca
         - API support;
         - Maintainability; 
         - Overall impression.
-#Use Cases
+# Use Cases
 
 1. [Use of Semantics within Search Engines](https://esipfed.github.io/stc/UseCases/STCUseCasesAndRequirements.html#SemanticSearchEngine)
 2. [Browsing a Portal for a Relevant Ontology](https://esipfed.github.io/stc/UseCases/STCUseCasesAndRequirements.html#OntologyBrowsing)
 3. [Annotating Text](https://esipfed.github.io/stc/UseCases/STCUseCasesAndRequirements.html#AnnotatingText)
 4. [Editing, Extending and Releasing New Versions of an Existing Ontology](https://esipfed.github.io/stc/UseCases/STCUseCasesAndRequirements.html#ReleaseOntology)
-
